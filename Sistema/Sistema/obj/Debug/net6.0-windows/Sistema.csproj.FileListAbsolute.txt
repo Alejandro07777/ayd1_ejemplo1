@@ -1,0 +1,17 @@
+C:\Users\Fredy\Documents\proyecto\ayd1_ejemplo1\Sistema\Sistema\bin\Debug\net6.0-windows\Sistema.exe
+C:\Users\Fredy\Documents\proyecto\ayd1_ejemplo1\Sistema\Sistema\bin\Debug\net6.0-windows\Sistema.deps.json
+C:\Users\Fredy\Documents\proyecto\ayd1_ejemplo1\Sistema\Sistema\bin\Debug\net6.0-windows\Sistema.runtimeconfig.json
+C:\Users\Fredy\Documents\proyecto\ayd1_ejemplo1\Sistema\Sistema\bin\Debug\net6.0-windows\Sistema.dll
+C:\Users\Fredy\Documents\proyecto\ayd1_ejemplo1\Sistema\Sistema\bin\Debug\net6.0-windows\Sistema.pdb
+C:\Users\Fredy\Documents\proyecto\ayd1_ejemplo1\Sistema\Sistema\obj\Debug\net6.0-windows\Sistema.csproj.AssemblyReference.cache
+C:\Users\Fredy\Documents\proyecto\ayd1_ejemplo1\Sistema\Sistema\obj\Debug\net6.0-windows\Sistema.Form1.resources
+C:\Users\Fredy\Documents\proyecto\ayd1_ejemplo1\Sistema\Sistema\obj\Debug\net6.0-windows\Sistema.csproj.GenerateResource.cache
+C:\Users\Fredy\Documents\proyecto\ayd1_ejemplo1\Sistema\Sistema\obj\Debug\net6.0-windows\Sistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fredy\Documents\proyecto\ayd1_ejemplo1\Sistema\Sistema\obj\Debug\net6.0-windows\Sistema.AssemblyInfoInputs.cache
+C:\Users\Fredy\Documents\proyecto\ayd1_ejemplo1\Sistema\Sistema\obj\Debug\net6.0-windows\Sistema.AssemblyInfo.cs
+C:\Users\Fredy\Documents\proyecto\ayd1_ejemplo1\Sistema\Sistema\obj\Debug\net6.0-windows\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\Fredy\Documents\proyecto\ayd1_ejemplo1\Sistema\Sistema\obj\Debug\net6.0-windows\Sistema.dll
+C:\Users\Fredy\Documents\proyecto\ayd1_ejemplo1\Sistema\Sistema\obj\Debug\net6.0-windows\refint\Sistema.dll
+C:\Users\Fredy\Documents\proyecto\ayd1_ejemplo1\Sistema\Sistema\obj\Debug\net6.0-windows\Sistema.pdb
+C:\Users\Fredy\Documents\proyecto\ayd1_ejemplo1\Sistema\Sistema\obj\Debug\net6.0-windows\Sistema.genruntimeconfig.cache
+C:\Users\Fredy\Documents\proyecto\ayd1_ejemplo1\Sistema\Sistema\obj\Debug\net6.0-windows\ref\Sistema.dll
